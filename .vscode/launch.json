@@ -2,6 +2,111 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "Day4.ReverseString",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "PalindromString",
+      "request": "launch",
+      "mainClass": "Day4.PalindromString",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Constructors",
+      "request": "launch",
+      "mainClass": "Day4.Constructors",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Demo2",
+      "request": "launch",
+      "mainClass": "Day4.Demo2",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Day4.Demo",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "String",
+      "request": "launch",
+      "mainClass": "Day4.String",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "SecondLargest",
+      "request": "launch",
+      "mainClass": "Day4.SecondLargest",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "SecondLargest",
+      "request": "launch",
+      "mainClass": "SecondLargest",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "CheckArmstrongNumber",
+      "request": "launch",
+      "mainClass": "CheckArmstrongNumber",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "day3.BinarySearch",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "LeftRotateByOne",
+      "request": "launch",
+      "mainClass": "day3.LeftRotateByOne",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "LeftRotateByOne",
+      "request": "launch",
+      "mainClass": "LeftRotateByOne",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "InnerBinarySearchExample",
+      "request": "launch",
+      "mainClass": "InnerBinarySearchExample",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearchExample",
+      "request": "launch",
+      "mainClass": "BinarySearchExample",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
