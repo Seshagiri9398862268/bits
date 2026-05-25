@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Day7.Demo",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Exception",
+      "request": "launch",
+      "mainClass": "Day7.Exception",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Arithmetic",
+      "request": "launch",
+      "mainClass": "Day7.Arithmetic",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Main2",
+      "request": "launch",
+      "mainClass": "Day7.Main2",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Day7.Main",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
       "name": "PowerOfTwoChecks",
       "request": "launch",
       "mainClass": "Day7.PowerOfTwoChecks",
