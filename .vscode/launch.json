@@ -3,6 +3,97 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PowerOfTwoChecks",
+      "request": "launch",
+      "mainClass": "Day7.PowerOfTwoChecks",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "a1",
+      "request": "launch",
+      "mainClass": "Day7.a1",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Day6.Demo",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "TestStudent",
+      "request": "launch",
+      "mainClass": "Day6.CSE.TestStudent",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Student",
+      "request": "launch",
+      "mainClass": "Day6.Student",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "DataHiding",
+      "request": "launch",
+      "mainClass": "Day6.DataHiding",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "FibonaciSeries",
+      "request": "launch",
+      "mainClass": "Day5.FibonaciSeries",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Day5.Factorial",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "PrintNumber",
+      "request": "launch",
+      "mainClass": "Day5.PrintNumber",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Anagram",
+      "request": "launch",
+      "mainClass": "Day5.Anagram",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "CountVCDS",
+      "request": "launch",
+      "mainClass": "Day5.CountVCDS",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Day5.Palindrome",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "StringLength",
+      "request": "launch",
+      "mainClass": "Day5.StringLength",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
       "name": "ReverseString",
       "request": "launch",
       "mainClass": "Day4.ReverseString",
