@@ -3,6 +3,181 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "Day11.MergeSort",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "Day10.LinearSearch",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "InsertSort",
+      "request": "launch",
+      "mainClass": "Day10.InsertSort",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "Day10.BubbleSort",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "Day10.SelectionSort",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Sort",
+      "request": "launch",
+      "mainClass": "Day10.Sort",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "QueueOperations",
+      "request": "launch",
+      "mainClass": "Day9.QueueOperations",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "QueueProgram",
+      "request": "launch",
+      "mainClass": "Day9.QueueProgram",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Implementation",
+      "request": "launch",
+      "mainClass": "Implementation",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Day9.Main",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Pop",
+      "request": "launch",
+      "mainClass": "Day9.Pop",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Push",
+      "request": "launch",
+      "mainClass": "Day9.Push",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Stack",
+      "request": "launch",
+      "mainClass": "Day9.Stack",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Demo5",
+      "request": "launch",
+      "mainClass": "Day8.Demo5",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Demo4",
+      "request": "launch",
+      "mainClass": "Day8.Demo4",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Demo3",
+      "request": "launch",
+      "mainClass": "Day8.Demo3",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Demo2",
+      "request": "launch",
+      "mainClass": "Day8.Demo2",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Index4",
+      "request": "launch",
+      "mainClass": "Day8.Index4",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Day8.Main",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Day8.Demo",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Index3",
+      "request": "launch",
+      "mainClass": "Day8.Index3",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "Day8.LinkedList",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Index2",
+      "request": "launch",
+      "mainClass": "Day8.Index2",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
+      "name": "Index",
+      "request": "launch",
+      "mainClass": "Day8.Index",
+      "projectName": "Summercamp2026 Day2_d71d4e34"
+    },
+    {
+      "type": "java",
       "name": "Demo",
       "request": "launch",
       "mainClass": "Day7.Demo",
